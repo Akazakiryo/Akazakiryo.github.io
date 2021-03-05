@@ -1,1 +1,8 @@
 # Akazakiryo.github.io
+@charset "utf-8";
+
+/* ユニバーサルセレクタで余白リセット */
+* {
+	margin: 0;
+	padding: 0;
+}
